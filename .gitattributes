@@ -1,0 +1,6 @@
+cmake filter=lfs diff=lfs merge=lfs -text
+CMakeLists.txt filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+NEON_2_SSE.h filter=lfs diff=lfs merge=lfs -text
+ReadMe.md filter=lfs diff=lfs merge=lfs -text
